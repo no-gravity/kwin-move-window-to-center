@@ -16,3 +16,6 @@ I did a bit of experimentation with the code, and now I don't
 know how to deinstall the plugin anymore. So I'm not sure
 it will really work with the two-step processs described
 above.
+
+## Demo:
+<p align="center"><img alt="Demo" src="https://raw.githubusercontent.com/KSmanis/kwin-move-window-to-center/assets/demos/demo.gif"></p>
