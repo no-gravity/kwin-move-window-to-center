@@ -1,0 +1,22 @@
+{
+    "KPlugin": {
+        "Name": "kwin-move-window-to-center",
+        "Description": "KWin script that creates a KDE shortcut to center the active window.",
+        "Icon": "preferences-system-windows",
+        "Authors": [
+            {
+                "Email": "?",
+                "Name": "?"
+            }
+        ],
+        "Id": "MoveWindowToCenter",
+        "ServiceTypes": [
+            "KWin/Script"
+        ],
+        "Version": "?",
+        "Licsense": "?",
+        "Website": "?"
+    },
+    "X-Plasma-API": "javascript",
+    "X-Plasma-MainScript": "main.js"
+}
